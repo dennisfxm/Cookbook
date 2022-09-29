@@ -1,6 +1,6 @@
 # Cookbook
 Dennisfxm recipes
-
+<!-- (Replace the '{}' with the responding username or id) REMEMBER TO REMOVE THIS LINE ONCE YOU MAKE THE FILE!!!--!>
 #Template
 
 # [Name of recipe]
@@ -10,7 +10,7 @@ Dennisfxm recipes
 
 Preparation: [Time]  
 Author:  
-<!-- (Replace the '{}' with the responding username or id) REMEMBER TO REMOVE THIS LINE ONCE YOU MAKE THE FILE!!!--!>
+
 
 
 ## Ingredients
