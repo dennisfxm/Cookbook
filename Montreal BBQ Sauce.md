@@ -1,9 +1,10 @@
-# [Montreal BBQ Sauce]
+# Montreal BBQ Sauce
 <p align="center">
 <img src="example.png" />
 </p>
 
 Preparation: 1 hr 20 min 
+
 Author: Au Pied du Cochon 
 
 
