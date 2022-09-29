@@ -6,21 +6,14 @@
 Preparation: 40 min  
 
 ## Ingredients
-Half and half - ½ cup
-
-Condensed milk - 1 can (14 oz.)
-
-Canned dulce de leche - 1 can (14 oz.), divided
-
-Dash of fine sea salt
-
-Heavy cream (whipping cream), chilled - 2 cups
-
-Heath bits - about 1 cup
-
-Banana Pudding - about half a recipe
-
-Biscoff Cookies, crushed - about half a cup
+* Half and half - ½ cup
+* Condensed milk - 1 can (14 oz.)
+* Canned dulce de leche - 1 can (14 oz.), divided
+* Dash of fine sea salt
+* Heavy cream (whipping cream), chilled - 2 cups
+* Heath bits - about 1 cup
+* Banana Pudding - about half a recipe
+* Biscoff Cookies, crushed - about half a cup
 
 ## Materials
 Ice Cream machine
