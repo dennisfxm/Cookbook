@@ -4,8 +4,6 @@
 </p>
 
 Preparation: 40 min  
-Author:  
-
 
 ## Ingredients
 Half and half - ½ cup
