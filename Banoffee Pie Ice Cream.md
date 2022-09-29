@@ -5,7 +5,6 @@
 
 Preparation: 40 min  
 Author:  
-<!-- (Replace the '{}' with the responding username or id) REMEMBER TO REMOVE THIS LINE ONCE YOU MAKE THE FILE!!!--!>
 
 
 ## Ingredients
@@ -36,3 +35,6 @@ Mix in pudding and heath bits.
 
 ## Conclusion
 You can also mix in extra dulce le leche.
+
+## Discussion
+Banoffee, innit?
