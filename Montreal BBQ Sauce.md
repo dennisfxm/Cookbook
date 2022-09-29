@@ -1,6 +1,6 @@
 # Montreal BBQ Sauce
 <p align="center">
-<img src="example.png" />
+<img src="/images/HockeyBBQ.jpg" />
 </p>
 
 Preparation: 1 hr 20 min 
