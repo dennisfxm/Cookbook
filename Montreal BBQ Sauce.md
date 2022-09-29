@@ -11,37 +11,22 @@ Author: Au Pied du Cochon
 
 ## Ingredients
 
-2/3 c Ketchup
-
-2 T A-1 steak sauce
-
-1/4 c Worchestershire sauce
-
-3 T Bourbon
-
-1/4 c cheap beer
-
-1/4 c yellow mustard
-
-2 T grapefruit juice
-
-1 dash hot sauce
-
-1 medium yellow onion thinly sliced
-
-3 cloves garlic
-
-2/3 c brown sugar
-
-4 t chili powder
-
-2.5 t black pepper
-
-4 t garlic powder
-
-1 bay leaf
-
-a knob of butter
+* 2/3 c Ketchup
+* 2 T A-1 steak sauce
+* 1/4 c Worchestershire sauce
+* 3 T Bourbon
+* 1/4 c cheap beer
+* 1/4 c yellow mustard
+* 2 T grapefruit juice
+* 1 dash hot sauce
+* 1 medium yellow onion thinly sliced
+* 3 cloves garlic
+* 2/3 c brown sugar
+* 4 t chili powder
+* 2.5 t black pepper
+* 4 t garlic powder
+* 1 bay leaf
+* a knob of butter
 
 ## Materials
 Blender of food processor
