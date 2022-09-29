@@ -1,6 +1,6 @@
 # Banoffee Pie Ice Cream
 <p align="center">
-<img src="/images/BonoffeePieIceCreamLabel.png" />
+<img src="https://github.com/dennisfxm/Cookbook/tree/main/images/BonoffeePieIceCreamLabel.png" />
 </p>
 
 Preparation: 40 min  
