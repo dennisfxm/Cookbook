@@ -1,6 +1,6 @@
 # Banoffee Pie Ice Cream
 <p align="center">
-<img src="example.png" />
+<img src="/images/BonoffeePieIceCreamLabel.png" />
 </p>
 
 Preparation: 40 min  
